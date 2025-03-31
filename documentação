@@ -1,0 +1,17 @@
+# Task-Manager-nodeJs
+Projeto desenvolvido em NodeJS
+
+Link Figma: https://www.figma.com/design/7rhQogqEelDBwYSlDc3Mue/Untitled?node-id=0-1&p=f&t=D9jtlnQJOf1k9ZtN-0
+
+Linguagens/FrameWorks utilizados:
+
+-Angular - Front-End
+-NodeJs - Backe-End
+-ExpressJs - Ajuda na criação de Apis RestFull
+-MySql - Banco de dados
+
+
+Descrição Simples:
+
+  O Task Manager será desenvolvido com o objetivo de aprimorar o conhecimento do desenvolvedor em relação as tecnologias mencionadas
+
