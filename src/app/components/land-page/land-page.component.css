@@ -1,0 +1,31 @@
+.btnSign {
+    background-color: #F2BD1D;
+}
+
+.btnSign:hover {
+    background-color: #c79e25;
+}
+
+#menuHeader {
+    cursor: pointer;
+}
+
+.anchorLink {
+    transition: all 0.2s ease-out;
+}
+
+.anchorLink:hover {
+    transform: scale(1.1);
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+#bodyBackground {
+    background-image: url('../../../assets/blue-abstract-gradient-wave-wallpaper.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
