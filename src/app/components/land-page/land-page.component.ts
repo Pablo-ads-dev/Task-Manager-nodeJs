@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { RouterOutlet, Router } from '@angular/router';
 
 @Component({
   selector: 'app-land-page',
@@ -8,5 +8,10 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './land-page.component.css'
 })
 export class LandPageComponent {
-title ="teste";
+  title = "teste";
+  constructor(private router: Router) { }
+
+  redirectTeste() {
+    this.router.navigate(['/tasks']);
+  }
 }
